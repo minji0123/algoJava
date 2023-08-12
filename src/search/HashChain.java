@@ -2,7 +2,7 @@ package search;
 import java.util.LinkedList;
 //import java.util.Map;
 
-public class HashChain<K, V> {
+public class  HashChain<K, V> {
 
     // 해시 테이블 크기 (슬롯 개수)
     private int capacity;
