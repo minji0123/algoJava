@@ -1,4 +1,4 @@
-package basic;
+package codingTest.gabia;
 
 public class Test {
     public static int countSquares(int n) {

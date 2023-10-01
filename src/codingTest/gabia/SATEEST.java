@@ -1,4 +1,4 @@
-package basic;
+package codingTest.gabia;
 
 import java.util.*;
 
